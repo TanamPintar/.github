@@ -12,7 +12,7 @@ Our project addresses the critical challenge of optimizing soil classification f
 ## Demo Application
 ![Demo App](https://github.com/TanamPintar/Mobile-Development/assets/117373959/e8296359-eda7-4980-aa52-229e0167c390)
 <p align="center">
- You can check the full demonstration through this link, <a src="https://drive.google.com/file/d/1wi9bQ-hlQMNTvsZE5ykYUYOiUrdNMoFi/view">click here</a>
+ You can check the full demonstration through this link, <a href="https://drive.google.com/file/d/1wi9bQ-hlQMNTvsZE5ykYUYOiUrdNMoFi/view">click here</a>
 </p>
 
 ## Our Team Members
