@@ -56,11 +56,11 @@ Team ID : C241-PS481
 
 ## Documentation
 <b>Cloud Computing</b><br>
-You can check our Cloud Computing Documentation through this link, [click here](https://github.com/TanamPintar/Cloud-Computing)<br>
+You can check our Cloud Computing Documentation through this link, [click here](https://github.com/TanamPintar/Cloud-Computing)<br><br>
 <b>Machine Learning</b><br>
-You can check our Machine Learning Documentation through this link, [click here](https://github.com/TanamPintar/Machine-Learning)<br>
+You can check our Machine Learning Documentation through this link, [click here](https://github.com/TanamPintar/Machine-Learning)<br><br>
 <b>Mobile Development</b><br>
-You can check our Mobile Development Documentation through this link, [click here](https://github.com/TanamPintar/Mobile-Development)<br>
+You can check our Mobile Development Documentation through this link, [click here](https://github.com/TanamPintar/Mobile-Development)<br><br>
 
 ## APK Link
 You can try the application that we made by downloading the file that we have released, [click here](https://drive.google.com/file/d/1hEQ9HhYTjLG5oJ5c_-Lna5ye2AQ5u8z_/view?usp=sharing)
