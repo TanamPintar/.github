@@ -55,12 +55,12 @@ Team ID : C241-PS481
   - [Shimmer](https://github.com/facebookarchive/shimmer-android)
 
 ## Documentation
-<b>Cloud Computing</b>
-You can check our Cloud Computing Documentation through this link, [click here](https://github.com/TanamPintar/Cloud-Computing)
-<b>Machine Learning</b>
-You can check our Machine Learning Documentation through this link, [click here](https://github.com/TanamPintar/Machine-Learning)
-<b>Mobile Development</b>
-You can check our Mobile Development Documentation through this link, [click here](https://github.com/TanamPintar/Mobile-Development)
+<b>Cloud Computing</b><br>
+You can check our Cloud Computing Documentation through this link, [click here](https://github.com/TanamPintar/Cloud-Computing)<br>
+<b>Machine Learning</b><br>
+You can check our Machine Learning Documentation through this link, [click here](https://github.com/TanamPintar/Machine-Learning)<br>
+<b>Mobile Development</b><br>
+You can check our Mobile Development Documentation through this link, [click here](https://github.com/TanamPintar/Mobile-Development)<br>
 
 ## APK Link
 You can try the application that we made by downloading the file that we have released, [click here](https://drive.google.com/file/d/1hEQ9HhYTjLG5oJ5c_-Lna5ye2AQ5u8z_/view?usp=sharing)
