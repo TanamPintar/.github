@@ -16,7 +16,8 @@ Our project addresses the critical challenge of optimizing soil classification f
 </p>
 
 ## Our Team Members
-Team ID : C241-PS481
+Team ID         : C241-PS481
+Project Manager : Trian Radis Pengestu - A211D4KY4288
 
 | Name                       | Bangkit ID   | Learning Path      |
 | ---------------------------| ------------ | ------------------ |
